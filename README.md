@@ -3,6 +3,11 @@
 
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mayanksinha0109?theme=dark&font=Baloo)
+<p align="center">
+  <a href="https://leetcode.com/u/mayanksinha0109/" target="_blank">
+    🔗 View My LeetCode Profile
+  </a>
+</p>
 ## Geeks For Geeks Stats
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/mayanksiwpvo/)
 
