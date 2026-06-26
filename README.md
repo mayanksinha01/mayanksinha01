@@ -2,7 +2,7 @@
 ## 💻 Coding Profiles
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/mayanksinha00109?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcode.card.workers.dev/mayanksinha0109?theme=dark&font=baloo&extension=null)
 ## Geeks For Geeks Stats
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/mayanksiwpvo/)
 
