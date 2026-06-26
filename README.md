@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 💻 Coding Profiles
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayanksinha00109?theme=dark&font=Baloo)
+## Geeks For Geeks Stats
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/mayanksiwpvo/)
 
 <!--
 **mayanksinha01/mayanksinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
